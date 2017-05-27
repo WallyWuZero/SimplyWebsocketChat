@@ -1,2 +1,2 @@
-# WallyWu
+# SimplyWebsocketChat
 nothing
